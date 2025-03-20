@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -34,3 +35,6 @@ db.sqlite3
 
 # Windows
 # Thumbs.db
+=======
+.qodo
+>>>>>>> 11f8aab5f2b78773a5eb25a09af507f4cf5c8d78
